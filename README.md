@@ -5,7 +5,7 @@ Bryan Bethea Portfolio
 
 ![](https://user-images.githubusercontent.com/19527299/49471309-86b8f680-f7da-11e8-9344-46ce57a9559e.gif)
 
-![]()
+![](https://user-images.githubusercontent.com/19527299/49471974-49edff00-f7dc-11e8-848a-d5c5b5db617b.gif)
 
 ![]()
 
