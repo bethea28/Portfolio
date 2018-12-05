@@ -33,5 +33,5 @@ Bryan Bethea Portfolio
 
 
 <div align="center">
-   <p>Worked with designers to build a React-based reusable UI component library suite</p>
+   <p>Worked with designers to build a React-based reusable UI component library suite utilizing Storybook</p>
 </div>
