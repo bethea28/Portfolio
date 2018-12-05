@@ -6,7 +6,7 @@ Bryan Bethea Portfolio
    <img src="https://user-images.githubusercontent.com/19527299/49471718-97b63780-f7db-11e8-8e8b-b483eafba1eb.gif"/>
 </div>
 
-<div>
+<div style={{flex-direction: "column"}}>
    <h2>LATEST ALL STORIES</h2>
    <p>On the latest screen under the All Stories tab is where you will fine all of the latest stories regarding all of the 
    MLS Clubs. Two key features that exist here and ll over the app are the Infinite Scrolling and Lazy Loading features          implemented using GraphQL and React Native.
