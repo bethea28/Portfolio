@@ -10,7 +10,7 @@ Bryan Bethea Portfolio
    <img src="https://user-images.githubusercontent.com/19527299/49471974-49edff00-f7dc-11e8-848a-d5c5b5db617b.gif"/>
    <img src="https://user-images.githubusercontent.com/19527299/49472123-9e917a00-f7dc-11e8-9527-d838b09e5ecc.gif"/>   
 </div>
-
+<p> Hey how are you</p>
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/19527299/49472371-49099d00-f7dd-11e8-9e48-4f35e6b75891.gif"/>
