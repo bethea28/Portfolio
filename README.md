@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Bryan Bethea Portfolio
 <p align="center"> Serviced and maintained the MLS App by working on miscellaneous problems across the front and backend as well as took lead on these key features. </p>
 <div align="center">
