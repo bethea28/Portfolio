@@ -16,6 +16,7 @@ Bryan Bethea Portfolio
    <img src="https://user-images.githubusercontent.com/19527299/49471974-49edff00-f7dc-11e8-848a-d5c5b5db617b.gif"/>
    <img src="https://user-images.githubusercontent.com/19527299/49494783-cad5e680-f82e-11e8-8c8d-b3eb61b7427a.gif"/>   
 </div>
+   <h2>Charts</h2>
    <p align="center"> 
    charts
    </p>
