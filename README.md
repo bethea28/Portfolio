@@ -18,7 +18,7 @@ Bryan Bethea Portfolio
 </div>
    <h2 align="center">Charts</h2>
    <p align="center"> 
-   charts
+   Team charts contain graphic statistical data around MLS Clubs and match ups such as team lineups, game stats
    </p>
 
 <div align="center">
