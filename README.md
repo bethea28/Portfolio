@@ -7,7 +7,7 @@ Bryan Bethea Portfolio
 </div>
 
 <div style={{flex-direction: "column"}}>
-   <h2>Infinite Scrolling and Lazy Loading</h2>
+   <h2 align="center">Infinite Scrolling and Lazy Loading</h2>
    <p>Two key features that exist all throughout the MLS App are the Infinite Scrolling and Lazy Loading features                   implemented using GraphQL and React Native.
    </p>
 </div>
@@ -16,7 +16,7 @@ Bryan Bethea Portfolio
    <img src="https://user-images.githubusercontent.com/19527299/49471974-49edff00-f7dc-11e8-848a-d5c5b5db617b.gif"/>
    <img src="https://user-images.githubusercontent.com/19527299/49494783-cad5e680-f82e-11e8-8c8d-b3eb61b7427a.gif"/>   
 </div>
-   <h2>Charts</h2>
+   <h2 align="center">Charts</h2>
    <p align="center"> 
    charts
    </p>
