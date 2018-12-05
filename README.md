@@ -7,7 +7,7 @@ Bryan Bethea Portfolio
 </div>
 
 <div style={{flex-direction: "column"}}>
-   <h2>LATEST ALL STORIES</h2>
+   <h2>Infinite Scrolling and Lazy Loading</h2>
    <p>On the latest screen under the All Stories tab is where you will fine all of the latest stories regarding all of the 
    MLS Clubs. Two key features that exist here and ll over the app are the Infinite Scrolling and Lazy Loading features          implemented using GraphQL and React Native.
    </p>
