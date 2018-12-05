@@ -3,7 +3,7 @@ Bryan Bethea Portfolio
 <p align="center"> Serviced and maintained the MLS App by working on miscellaneous problems across the front and backend as well as took lead on these key features. </p>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/19527299/49471309-86b8f680-f7da-11e8-9344-46ce57a9559e.gif"/>
-   <img src="https://user-images.githubusercontent.com/19527299/49471718-97b63780-f7db-11e8-8e8b-b483eafba1eb.gif"/>
+   <img src="https://user-images.githubusercontent.com/19527299/49472629-ed8bdf00-f7dd-11e8-9c6f-964464b8c057.gif"/>
 </div>
 
 <div style={{flex-direction: "column"}}>
