@@ -17,15 +17,12 @@ Bryan Bethea Portfolio
 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/19527299/49472371-49099d00-f7dd-11e8-9e48-4f35e6b75891.gif"/>
-      <img src="https://user-images.githubusercontent.com/19527299/49472340-32fbdc80-f7dd-11e8-8cfa-c5d06ff346ec.gif"/>
-
-   
+   <img src="https://user-images.githubusercontent.com/19527299/49472371-49099d00-f7dd-11e8-9e48-4f35e6b75891.gif"/>
+   <img src="https://user-images.githubusercontent.com/19527299/49472340-32fbdc80-f7dd-11e8-8cfa-c5d06ff346ec.gif"/>
 </p>
 
 <p align="center">
-
-<imag src="https://user-images.githubusercontent.com/19527299/49472629-ed8bdf00-f7dd-11e8-9c6f-964464b8c057.gif"/>
+   <img src="https://user-images.githubusercontent.com/19527299/49472629-ed8bdf00-f7dd-11e8-9c6f-964464b8c057.gif"/>
 </p>
 
 ![](https://user-images.githubusercontent.com/19527299/49485356-a6ffaa00-f808-11e8-963c-311139df16bb.gif)
