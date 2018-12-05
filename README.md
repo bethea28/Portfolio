@@ -1,6 +1,6 @@
 # portfolio
 Bryan Bethea Portfolio
-
+<p align="center"> Serviced and maintained the MLS App by working on miscellaneous problems across the front and backend as well as took lead on these key features. </p>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/19527299/49471309-86b8f680-f7da-11e8-9344-46ce57a9559e.gif"/>
    <img src="https://user-images.githubusercontent.com/19527299/49471718-97b63780-f7db-11e8-8e8b-b483eafba1eb.gif"/>
@@ -8,7 +8,7 @@ Bryan Bethea Portfolio
 
 <div style={{flex-direction: "column"}}>
    <h2>Infinite Scrolling and Lazy Loading</h2>
-   <p>Two key features that exist all throughout the MLS App are the Infinite Scrolling and Lazy Loading features          implemented using GraphQL and React Native.
+   <p>Two key features that exist all throughout the MLS App are the Infinite Scrolling and Lazy Loading features                   implemented using GraphQL and React Native.
    </p>
 </div>
 
