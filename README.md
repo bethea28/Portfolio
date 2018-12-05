@@ -31,6 +31,7 @@ Bryan Bethea Portfolio
 
 ![](https://user-images.githubusercontent.com/19527299/49485356-a6ffaa00-f808-11e8-963c-311139df16bb.gif)
 
-![]()
 
-![]()
+<div align="center">
+   <p>Worked with designers to build a React-based reusable UI component library suite</p>
+</div>Worked with designers to build a React-based reusable UI component library suite
